@@ -1,3 +1,5 @@
+# Exports all checkins to json
+
 import requests
 import json
 import secret
